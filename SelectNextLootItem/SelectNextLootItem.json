@@ -1,0 +1,11 @@
+{
+  "Author": "MidoriKami",
+  "Name": "Select Next Loot Item (Without VanillaPlus)",
+  "Punchline": "Selects the next loot item automatically.",
+  "Description": "I don't like how unstable VanillaPlus actually is...",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "plugin",
+    "loot"
+  ]
+}
