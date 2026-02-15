@@ -1,11 +1,14 @@
 {
-  "Author": "MidoriKami",
+  "Author": "MidoriKami, Catphinaud",
   "Name": "Select Next Loot Item (Without VanillaPlus)",
   "Punchline": "Selects the next loot item automatically.",
-  "Description": "I don't like how unstable VanillaPlus actually is...",
+  "Description": "I don't like how unstable VanillaPlus actually is... All credits to MidoriKami",
   "ApplicableVersion": "any",
   "Tags": [
-    "plugin",
+    "tweak",
     "loot"
-  ]
+  ],
+  "InternalName": "SelectNextLootItem",
+  "RepoUrl": "https://github.com/Catphinaud/SelectNextLootItem",
+  "DalamudApiLevel": 14
 }
